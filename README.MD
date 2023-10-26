@@ -1,1 +1,1 @@
-https://github.com/morgiach/posmotri_v_okno.git
+https://github.com/morgiach/posmotkno.git
