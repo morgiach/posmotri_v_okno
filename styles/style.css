@@ -135,7 +135,7 @@ ol {
 
 .search-form__textfield::placeholder {
   color: rgba(255, 255, 255, 0.7);
-  font-family: "Fira Sans Condensed, "Arial", sans-serif";
+  font-family: "Fira Sans Condensed", "Arial", sans-serif;
   font-size: 18px;
   font-weight: 400;
 }
@@ -170,7 +170,7 @@ ol {
   background: transparent;
   border: 1px solid currentColor;
   color: #fff;
-  font-family: "Fira Sans Condensed, "Arial", sans-serif";
+  font-family: "Fira Sans Condensed", "Arial", sans-serif;
   font-size: 18px;
   font-weight: 700;
   cursor: pointer;
